@@ -1,11 +1,11 @@
 <h1>Masters' Thesis: Designing CRM retention strategies using Deep Learning Customer Churn Prediction model in a subscription-based company</h1>
-Aalborg University: https://kbdk-aub.primo.exlibrisgroup.com/permalink/45KBDK_AUB/a7me0f/alma9921563150005762 <br><br>
+Aalborg University Thesis site: https://kbdk-aub.primo.exlibrisgroup.com/permalink/45KBDK_AUB/a7me0f/alma9921563150005762 <br><br>
 
-Thesis to be found here: https://github.com/johnnypetr93/CustomerChurnPrediction/blob/main/Thesis%20Final.pdf
+Full Thesis to be found here: https://github.com/johnnypetr93/CustomerChurnPrediction/blob/main/Thesis%20Final.pdf
 
 My collaborative Masters' Thesis with Martin Bobula (https://www.linkedin.com/in/martin-bobula/). Our thesis was based on Kaggle Competition: WSDM - KKBox's Churn Prediction Challenge (https://www.kaggle.com/c/kkbox-churn-prediction-challenge). I was in charge of coding while Martin was in charge of literature review and marketing theory. <br><br>
 
-Unfortunately, the original Python notebooks are long gone. But here's a couple of notable code snippets from the Thesis. <br><br>
+<b><i>Unfortunately, the original Python notebooks are long gone. But here's a couple of notable code snippets from the Thesis.</i></b> <br><br>
 
 1) Transforming customer behavior over the span of 59 days into a heatmap. Effectively turning this into an image classification problem. <br> <img src="imgs/Screenshot 2024-03-17 at 21.43.32.png" width="700">
 
